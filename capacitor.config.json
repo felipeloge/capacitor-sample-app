@@ -1,0 +1,6 @@
+{
+  "appId": "com.capacitor.app",
+  "appName": "Capacitor App",
+  "webDir": "dist",
+  "bundledWebRuntime": true
+}
